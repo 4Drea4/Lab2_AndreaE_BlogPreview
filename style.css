@@ -1,24 +1,56 @@
 body{
-    font: figtree;
-    background-color: ;
+    font-family: figtree;
+    background-color:#F4D04E ;
     font-size: 1.15rem;
     line-height: 150%;
     display: flex;
     height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    padding:24px;
 }
 .main-container{
     background-color: #FFFFFF;
-    display:block;
+    border-radius: 30px;
     justify-content: center;
     align-items: center;
     width: 384px;
-    height:522px;
+    height:622px;
 }
 
 .learning {
-    font-weight: 300px;
-    padding: 24px;
+    font-weight: 600;
+    color:#111111;
     background-color: #F4D04E;
-    width:
+    width:80px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
+p{
+    color: #6B6B6B;
+    font-size: 16px;
+}
+.profile-image{
+    display: inline;
+    border-radius: 50px;
+    font-weight: 300;
+    color:#111111 ;
+    
+}
+.profile-picture{
+    width: 32px;
+    height:32px ;
+}
+
+.design{
+    border-radius: 30px;
+}
+
+.h6{
+    font-size: 24px;
+}
