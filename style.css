@@ -2,7 +2,6 @@ body{
     font-family: figtree;
     background-color:#F4D04E ;
     font-size: 1.15rem;
-    line-height: 150%;
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -18,22 +17,23 @@ body{
     justify-content: center;
     align-items: center;
     width: 384px;
-    height:622px;
-    box-shadow: 0 20px 40px #111111;
+    height:522px;
+    box-shadow: 0 10px 20px #111111;
     transition: box-shadow 0.3s ease-in-out;
-}
 
+}
+    .main-container:hover{
+        transform: translateY(-20px);
+        transform: translateX(-10px);
+        box-shadow: 0 10px 20px #111111;
+    }
 .learning {
-    
     color:#111111;
     background-color: #F4D04E;
-    width:60px;
     border-radius: 20px;
-    justify-content: center;
-    align-items: center;
     display: inline-block;
     margin: 0px;
-    padding: 4px;
+    
 }
 
 p{
@@ -60,4 +60,6 @@ p{
 
 .h6{
     font-size: 24px;
+    margin: 0;
+   
 }
