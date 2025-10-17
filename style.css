@@ -19,16 +19,21 @@ body{
     align-items: center;
     width: 384px;
     height:622px;
+    box-shadow: 0 20px 40px #111111;
+    transition: box-shadow 0.3s ease-in-out;
 }
 
 .learning {
-    font-weight: 600;
+    
     color:#111111;
     background-color: #F4D04E;
-    width:80px;
+    width:60px;
     border-radius: 20px;
     justify-content: center;
     align-items: center;
+    display: inline-block;
+    margin: 0px;
+    padding: 4px;
 }
 
 p{
@@ -36,10 +41,12 @@ p{
     font-size: 16px;
 }
 .profile-image{
-    display: inline;
+    display: flex;
     border-radius: 50px;
     font-weight: 300;
     color:#111111 ;
+    align-items: center;
+    gap: 12px;
     
 }
 .profile-picture{
