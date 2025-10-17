@@ -4,7 +4,7 @@
 
 ## Howdy PS Teachers! 👋
 
-![I have completed todays assignment part 2!] (./https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z3d3J1eDFpMGNmeGExbmZnZnJhbXY1bTY1ZDBnaWNjM3YxMW8waiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13hxeOYjoTWtK8/giphy.gif)
+![I have completed todays assignment part 2!] !Alt texthttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z3d3J1eDFpMGNmeGExbmZnZnJhbXY1bTY1ZDBnaWNjM3YxMW8waiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13hxeOYjoTWtK8/giphy.gif
 
 **Check it out.**
 
